@@ -6,7 +6,6 @@ const person = {
 	isStudent: false
 };
 
-// Your code here
 function getObjectInformation (person) {
 	const infoArray = [];
 	for (const key in person) {
